@@ -14,3 +14,8 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Ignore editor-specific settings files
+
+## The Ulysses app
+.Ulysses-favorites.plist
