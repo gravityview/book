@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Getting Started](chapter1.md)
 * [The View Editor](the_view_editor.md)
-   * [View Settings](view_settings.md)
+   * [View Settings](admin/view_settings.md)
    * [Edit Entry](admin/edit_entry.md)
    * [The Search Bar](admin/widgets/search_bar.md)
    * [Using Custom Content and HTML](admin/fields/custom_content.md)
