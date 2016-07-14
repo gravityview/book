@@ -6,6 +6,7 @@
    * [View Settings](view_settings.md)
    * [Edit Entry](edit_entry.md)
    * [The Search Bar](the_search_bar.md)
+   * Using Custom Content and HTML
 * [Entry Filters & Approval](entry_filters_&_approval.md)
    * [Entry Approval](entry_approval.md)
 
