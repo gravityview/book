@@ -10,5 +10,5 @@
    * [Entry Approval](entry_approval.md)
 * [Editing Entries](edit-entry/editing_entries.md)
    * [Edit Entry](admin/edit_entry.md)
-   * Allowing users to edit their own entry
+   * [Allowing users to edit their own entry](edit-entry/users_edit_own_entry.md)
 
