@@ -5,6 +5,6 @@
 * [The View Editor](the_view_editor.md)
    * [View Settings](view_settings.md)
    * [Edit Entry](edit_entry.md)
-   * The Search Bar
+   * [The Search Bar](the_search_bar.md)
    * The Search Bar
 
