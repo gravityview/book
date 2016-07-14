@@ -1,4 +1,4 @@
-Before anything else, let's cover the basics.
+Before anything else, let's cover the basics, shall we? ✅
 
 # What is a View?
 
