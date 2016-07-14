@@ -9,5 +9,5 @@
    * [Using Custom Content and HTML](admin/fields/custom_content.md)
 * [Entry Filters & Approval](entry_filters_&_approval.md)
    * [Entry Approval](entry_approval.md)
-* Editing Entries
+* [Editing Entries](edit-entry/editing_entries.md)
 
