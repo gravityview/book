@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Getting Started](chapter1.md)
-   * View Settings
+   * [View Settings](view_settings.md)
 
