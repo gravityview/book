@@ -6,4 +6,5 @@
    * [View Settings](view_settings.md)
    * [Edit Entry](edit_entry.md)
    * The Search Bar
+   * The Search Bar
 
