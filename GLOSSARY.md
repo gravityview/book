@@ -7,3 +7,7 @@ An Entry is the record created from a Gravity Forms Form submission. Each Form f
 ## View
 
 A configuration of how to display entries from a Gravity Forms form.
+
+## GravityView
+
+The best way to display form results on your WordPress website.
