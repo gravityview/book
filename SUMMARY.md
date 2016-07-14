@@ -10,4 +10,5 @@
 * [Entry Filters & Approval](entry_filters_&_approval.md)
    * [Entry Approval](entry_approval.md)
 * [Editing Entries](edit-entry/editing_entries.md)
+   * Allowing users to edit their own entry
 
