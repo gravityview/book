@@ -6,5 +6,5 @@
    * [View Settings](view_settings.md)
    * [Edit Entry](edit_entry.md)
    * [The Search Bar](the_search_bar.md)
-* Entry Filters & Approval
+* [Entry Filters & Approval](entry_filters_&_approval.md)
 
