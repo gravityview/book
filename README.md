@@ -1,3 +1,9 @@
-# My Awesome Book
+# Get to know GravityView
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> I have a bunch of form data that I want to show on my site. How do I do that?
+
+One word: GravityView.
+
+-------------------
+
+Hi folks - Zack here with GravityView. In these docs, 
