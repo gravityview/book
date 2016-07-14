@@ -6,4 +6,4 @@ One word: GravityView.
 
 -------------------
 
-Hi folks - Zack here with GravityView. In these docs, 
+Hi folks - Zack here with GravityView. In these docs, you'll learn the basics of using GravityView and some of our most popular extensions.
