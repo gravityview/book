@@ -14,6 +14,4 @@ A configuration of how to display entries from a Gravity Forms form.
 
 ## Zone
 
-A "zone" is a layout element where fields or widgets can be placed in the Edit View screen. You can place multiple fields or widgets in a zone.
-
-When a zone is displayed to a visitor of your site, the zone fields will be displayed together.
+A grouping of fields or widgets in the Edit View screen. You can place more than one field or widget in a zone.
