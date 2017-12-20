@@ -16,7 +16,7 @@ The goals of the layout are to:
 
 DIY allows you to use your own CSS and HTML structure instead of needing to modify our predefined layouts to fit your needs. 
 
-> I was using GravityView for a "Testimonials" page on the GravityView site, and I was getting frustrated by the limitations of the List layout. I didn't want everything in a Custom Content field, so I created the DIY layout.
+> I was building a "Testimonials" View and I was getting frustrated by the limitations of the List layout. I didn't want everything in a Custom Content field, so I created the DIY layout. DIY is for people who _can_ code solutions, but don't want to!
 >
 > Zack Katz, GravityView creator
 
