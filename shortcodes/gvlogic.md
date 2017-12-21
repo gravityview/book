@@ -81,8 +81,7 @@ You can also use Merge Tags in the `else` parameter.
 	  The field value was 28457.
 	[/gvlogic]
 
-In the example above, let's see what the output looks like with
-different values for the "Number" field (Field ID \#5):
+In the example above, let's see what the output looks like with different values for the "Number" field (Field ID \#5):
 
 - `28457`: "The field value was 28457"
 - `9`: "9 is a bad number."
