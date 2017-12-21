@@ -9,7 +9,7 @@ condition, you can do that with `[gvlogic]`.
 ------------------------------------------------------------------------
 
 If you are using GravityView for an [Issue
-Tracker](http://demo.gravityview.co/blog/view/issue-tracker/), you may
+Tracker](https://demo.gravityview.co/blog/view/issue-tracker/), you may
 want to display content to a user based on the ticket status.
 
     [gvlogic if="{Issue Status:13}" is="Closed"]
@@ -176,7 +176,7 @@ multiple lines, so it is more limited.
 
 Let's say there's a paragraph text field where users submit their
 favorite quote. You have a special affinity for the [All the world's a
-stage monolog](http://en.wikipedia.org/wiki/All_the_world's_a_stage),
+stage monolog](https://en.wikipedia.org/wiki/All_the_world's_a_stage),
 and you want to share that love.
 
     [gvlogic if="{Paragraph Text:2}" contains="All the world's a stage"]
