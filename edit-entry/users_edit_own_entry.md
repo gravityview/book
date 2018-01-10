@@ -7,7 +7,7 @@ Learn how to allow users to edit entries they created.
 
 ![][1]
 
-[1]: http://media.screensteps.me/kws/g6f4z9/check-the-user-edit-checkbox.png?1468537989
+[1]: https://gravityview.co/wp-content/uploads/2018/01/check-the-user-edit-checkbox.png?1468537989
 
 ## Add an "Edit Entry" link
 
@@ -15,7 +15,7 @@ Click "Add Field", scroll down and click "Edit Entry". This inserts a link to ed
 
 ![][2]
 
-[2]: http://media.screensteps.me/kws/g6f4z9/add-an--edit-entry--link.png?1468537990
+[2]: https://gravityview.co/wp-content/uploads/2018/01/add-an-edit-entry--link.png?1468537990
 
 ## Optional: Modify the link text
 
@@ -25,13 +25,13 @@ You can change the link text of the "Edit Entry" link.
 
 ![][3]
 
-[3]: http://media.screensteps.me/kws/g6f4z9/click-the-field-settings-gear-icon.png?1468537990
+[3]: https://gravityview.co/wp-content/uploads/2018/01/click-the-field-settings-gear-icon.png?1468537990
 
 ### Customize the Edit Link Text field
 
 ![][4]
 
-[4]: http://media.screensteps.me/kws/g6f4z9/customize-the-edit-link-text-field.png?1468537990
+[4]: https://gravityview.co/wp-content/uploads/2018/01/customize-the-edit-link-text-field.png?1468537990
 
 ## Save the View
 
@@ -39,7 +39,7 @@ Now that you've added the Edit Entry field, save your View.
 
 ![][5]
 
-[5]: http://media.screensteps.me/kws/g6f4z9/save-the-view.png?1468537991
+[5]: https://gravityview.co/wp-content/uploads/2018/01/save-the-view.png?1468537991
 
 ## Now you've enabled User Edit!
 
@@ -51,4 +51,4 @@ Now that you've added the Edit Entry field, save your View.
 
 ![][6]
 
-[6]: http://media.screensteps.me/kws/g6f4z9/now-you-ve-enabled-user-edit-.png?1468537992
+[6]: https://gravityview.co/wp-content/uploads/2018/01/now-you-ve-enabled-user-edit-.png?1468537992

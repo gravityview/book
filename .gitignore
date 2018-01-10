@@ -20,3 +20,5 @@ _book
 ## The Ulysses app
 .Ulysses-favorites.plist
 .Ulysses-Group.plist
+
+.UlyssesRoot

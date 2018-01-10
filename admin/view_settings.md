@@ -1,9 +1,7 @@
 # View Settings
 
 
-![][1]
-
-[1]: http://media.screensteps.me/kws/3jnxgc/view-settings.png?1468532554
+![](https://gravityview.co/wp-content/uploads/2018/01/view-settings.png?1468532554)
 
 All the settings boxes have been consolidated into a single "View Settings" box that has tabs for each of the previous settings boxes.
 
@@ -11,9 +9,7 @@ All the settings boxes have been consolidated into a single "View Settings" box 
 
 ### View Settings
 
-![][2]
-
-[2]: http://media.screensteps.me/kws/3jnxgc/view-settings-1.png?1468532559
+![](https://gravityview.co/wp-content/uploads/2018/01/view-settings-1.png?1468532559)
 
 1. Modify how many entries that are displayed on each page of the View
 1. When viewing images in the View, display the images in an in-page popup
@@ -26,18 +22,14 @@ All the settings boxes have been consolidated into a single "View Settings" box 
 
 ### Single Entry Settings
 
-![Single Entry Settings][3]
-
-[3]: http://media.screensteps.me/kws/3jnxgc/single-entry-settings.png?1468532560
+![Single Entry Settings](https://gravityview.co/wp-content/uploads/2018/01/single-entry-settings.png?1468532560)
 
 1. The heading to use when viewing a single title
 1. When viewing a single entry, this text is used as the link to return to the View's multiple entries screen. Default: "**←** Return to Search"
 
 ### Filter & Sort Settings
 
-![Filter &amp; Sort Settings][4]
-
-[4]: http://media.screensteps.me/kws/3jnxgc/filter---sort-settings.png?1468532560
+![Filter &amp; Sort Settings](https://gravityview.co/wp-content/uploads/2018/01/filter-sort-settings.png?1468532560)
 
 1. When using a Table layout, enabling sorting by column will allow you to click the table header to sort the entries
 1. Choose the field to sort the View by (defaults to entry date)
@@ -48,9 +40,7 @@ All the settings boxes have been consolidated into a single "View Settings" box 
 
 ### Maps Settings
 
-![Map View Settings][5]
-
-[5]: http://media.screensteps.me/kws/3jnxgc/map-view-settings.png?1468532562
+![Map View Settings](https://gravityview.co/wp-content/uploads/2018/01/map-view-settings.png?1468532562)
 
 1. Choose which Address field from the Gravity Forms form to use to place the marker on the map
 1. Define the type of Google map you want displayed (Street, Satellite, or Hybrid)
@@ -58,9 +48,7 @@ All the settings boxes have been consolidated into a single "View Settings" box 
 
 ### Ratings & Reviews Settings
 
-![Ratings &amp; Reviews settings][6]
-
-[6]: http://media.screensteps.me/kws/3jnxgc/ratings---reviews-settings.png?1468532562
+![Ratings &amp; Reviews settings](https://gravityview.co/wp-content/uploads/2018/01/ratings-reviews-settings.png?1468532562)
 
 1. Whether to enable reviews for entries in this View. Required for the Ratings & Reviews Extension to work properly
 1. Prevent users from leaving multiple reviews. This does not apply to Administrators.
