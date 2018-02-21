@@ -1,4 +1,4 @@
-Let's try to show each method in \GV\Entry using GitBook's…um…method.
+Let's try to show each method in \GV\Entry using GitBook's…um…method!
 
 {% method %}
 ## by_id( $entry_id )
