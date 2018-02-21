@@ -19,7 +19,7 @@
 
 ## Extensions & Premium Views
 
-* [DIY Layout](diy-layout.md)
+* [DIY Layout](extensions/diy-layout.md)
 
 ## For Developers
 
