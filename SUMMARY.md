@@ -15,8 +15,8 @@
   * [Allowing users to edit their own entry](edit-entry/users_edit_own_entry.md)
 * [DIY Layout](diy-layout.md)
 * [Shortcodes](shortcodes/shortcodes.md)
-  * [\[gvlogic\] - Conditionally show and hide content](shortcodes/gvlogic.md)
   * [\[gvfield\]](shortcodes/[gvfield].md)
+  * [\[gvlogic\] - Conditionally show and hide content](shortcodes/gvlogic.md)
 
 ## For Developers
 
