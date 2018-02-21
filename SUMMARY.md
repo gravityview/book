@@ -23,8 +23,8 @@
 
 ## For Developers
 
-* [Version 2.0](actions/version-20.md)
-* [GV Entry](actions/gventry.md)
-* [Actions](actions/README.md)
+* [Version 2.0](developers/version-20.md)
+* [GV Entry](developers/gventry.md)
+* [Actions](developers/README.md)
 * [Filters](filters/README.md)
 
