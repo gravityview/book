@@ -9,8 +9,6 @@ Construct a `\GV\Entry` instance by ID.
 
 Whatever language you are using, the result will be the same.
 
-{% sample lang="php" %}
-
 ```php
 $ My first method
 ```
