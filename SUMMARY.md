@@ -13,14 +13,16 @@
 * [Editing Entries](edit-entry/editing_entries.md)
   * [Edit Entry](edit-entry/configure_edit_entry.md)
   * [Allowing users to edit their own entry](edit-entry/users_edit_own_entry.md)
-* [DIY Layout](diy-layout.md)
 * [Shortcodes](shortcodes/shortcodes.md)
   * [\[gvfield\]](shortcodes/[gvfield].md)
   * [\[gvlogic\]](shortcodes/gvlogic.md)
+
+## Extensions & Premium Views
+
+* [DIY Layout](diy-layout.md)
 
 ## For Developers
 
 * [Version 2.0](actions/version-20.md)
 * [Actions](actions/README.md)
 * [Filters](filters/README.md)
-
