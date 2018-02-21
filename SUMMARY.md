@@ -16,7 +16,7 @@
 * [DIY Layout](diy-layout.md)
 * [Shortcodes](shortcodes/shortcodes.md)
   * [\[gvfield\]](shortcodes/[gvfield].md)
-  * [\[gvlogic\] - Conditionally show and hide content](shortcodes/gvlogic.md)
+  * [\[gvlogic\]](shortcodes/gvlogic.md)
 
 ## For Developers
 
