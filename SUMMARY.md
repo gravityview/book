@@ -1,30 +1,10 @@
 # Summary
 
-## Concepts
+## Introduction
 
 * [Introduction](README.md)
-* [Getting Started](chapter1.md)
-* [The View Editor](the_view_editor.md)
-  * [View Settings](admin/view_settings.md)
-  * [The Search Bar](admin/widgets/search_bar.md)
-  * [Using Custom Content and HTML](admin/fields/custom_content.md)
-* [Entry Filters & Approval](entry_filters_&_approval.md)
-  * [Entry Approval](entry_approval.md)
-* [Editing Entries](edit-entry/editing_entries.md)
-  * [Edit Entry](edit-entry/configure_edit_entry.md)
-  * [Allowing users to edit their own entry](edit-entry/users_edit_own_entry.md)
-* [Shortcodes](shortcodes/shortcodes.md)
-  * [\[gvfield\]](shortcodes/[gvfield].md)
-  * [\[gvlogic\]](shortcodes/gvlogic.md)
-
-## Extensions & Premium Views
-
-* [DIY Layout](extensions/diy-layout.md)
-
-## For Developers
-
-* [Version 2.0](developers/version-20.md)
-* [GV Entry](developers/gventry.md)
-* [Actions](developers/README.md)
-* [Filters](filters/README.md)
-
+* [Lesson 1: Fields, Forms, and Entries](Lesson%2001.md)
+* [Lesson 2: Views](Lesson%2002.md)
+* [Lesson 3: View Contexts](Lesson%2003.md)
+* [Lesson 4: The Multiple Entries Context](Lesson%2004.md)
+* [Lesson 5: The Single Entry Context](Lesson%2005.md)
