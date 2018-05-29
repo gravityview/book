@@ -8,7 +8,7 @@ Let's get started!
 
 
 
-![contexts](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 3/3-images/contexts.png)
+![contexts](./3-images/contexts.png)
 
 ## What is a Context?
 
@@ -22,7 +22,7 @@ The word *Context* might seem a little abstract, but the concept is pretty simpl
 
 These three Contexts are simply different ways of looking at the Entries in your View. Let's talk about each of them individually!
 
-![multiple-entries](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 3/3-images/multiple-entries.png)
+![multiple-entries](./3-images/multiple-entries.png)
 
 ## The Multiple Entries Context
 
@@ -36,13 +36,13 @@ Another way of thinking about the Multiple Entries context is as the most "zoome
 
 **If your View is a directory of businesses, the Multiple Entries Context displays the basic details of all the businesses:**
 
-![multiple-entries-business](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 3/3-images/multiple-entries-business.png)
+![multiple-entries-business](./3-images/multiple-entries-business.png)
 
 
 
 **If your View is a map of retail stores, the Multiple Entries Context displays all of your stores on a map, along with their basic details:**
 
-![multiple-entries-map](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 3/3-images/multiple-entries-map.png)
+![multiple-entries-map](./3-images/multiple-entries-map.png)
 
 ...and so on. The Multiple Entries is mostly intended to be a high-level overview of your content. Although you can choose to display as many Fields as you like, showing too many will result in a cluttered mess of a page.
 
@@ -50,7 +50,7 @@ So, if we want to display a large number of Fields for a specific Entry, we need
 
 
 
-![single-entry](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 3/3-images/single-entry.png)
+![single-entry](./3-images/single-entry.png)
 
 ## The Single Entry Context
 
@@ -62,19 +62,19 @@ We'll talk about fine-tuning the Single Entry Context in Lesson 5, but let's bri
 
 
 
-![single-entry-business](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 3/3-images/single-entry-business.png)
+![single-entry-business](./3-images/single-entry-business.png)
 
 
 
 **If your View is a map of retail stores, the Single Entry Context of a particular Entry displays more details about that store:**
 
-![map-single-entry](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 3/3-images/map-single-entry.png)
+![map-single-entry](./3-images/map-single-entry.png)
 
 
 
 Put simply, the Single Entry displays the Fields of a Single Entry. But what if you want to edit these Entries directly on the Front End, without having to log in to the Back End of your website? To do that, we need the *Edit Entry Context.*
 
-![edit-entry](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 3/3-images/edit-entry.png)
+![edit-entry](./3-images/edit-entry.png)
 
 ## The Edit Entry Context
 
@@ -86,13 +86,13 @@ Continuing with our examples:
 
 **If your View is a directory of businesses, the Edit Entry Context of a particular Entry will let you edit the information (Fields) of that business (Entry):**
 
-![edit-entry-business](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 3/3-images/edit-entry-business.png)
+![edit-entry-business](./3-images/edit-entry-business.png)
 
 **If your View is a map of retail stores, the Edit Entry Context of a particular Entry will let you edit the details (Fields) of that store (Entry):**
 
 
 
-![edit-entry-maps](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 3/3-images/edit-entry-maps.png)
+![edit-entry-maps](./3-images/edit-entry-maps.png)
 
 
 

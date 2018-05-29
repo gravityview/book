@@ -21,7 +21,7 @@ If you aren't a tech-savy user, you might be unfamiliar with these terms. What's
 
   
 
-![front-end](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 2/2-images/front-end.png)
+![front-end](./2-images/front-end.png)
 
 
 
@@ -29,7 +29,7 @@ If you aren't a tech-savy user, you might be unfamiliar with these terms. What's
 
   
 
-![back-end](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 2/2-images/back-end.png)
+![back-end](./2-images/back-end.png)
 
 
 
@@ -57,7 +57,7 @@ First, go to the *View > New View* page on your WordPress sidebar.
 
 
 
-![new-view](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 2/2-images/new-view.png)
+![new-view](./2-images/new-view.png)
 
 
 
@@ -65,7 +65,7 @@ We need to give our View a name. Let's call it *Who's Coming to the Party?*
 
 
 
-![new-view-name](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 2/2-images/new-view-name.png)
+![new-view-name](./2-images/new-view-name.png)
 
 
 
@@ -77,7 +77,7 @@ Now we need to link this View to a Form. This Form is called our *Data Source.* 
 
 
 
-![data-source](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 2/2-images/data-source.png)
+![data-source](./2-images/data-source.png)
 
 
 
@@ -92,7 +92,7 @@ Let's talk about each of them individually.
 
 
 
-![view-layout](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 2/2-images/view-layout.png)
+![view-layout](./2-images/view-layout.png)
 
 
 
@@ -102,7 +102,7 @@ The Table Layout will display your Entries in a table. This layout is something 
 
 
 
-![table-layout](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 2/2-images/table-layout.png)
+![table-layout](./2-images/table-layout.png)
 
 
 
@@ -112,7 +112,7 @@ But what if you want to display more information about each Entry (and have mult
 
 The List Layout will display your Entries as a series of Listings. This is particularly useful for directories or listings. 
 
-![list-layout](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 2/2-images/list-layout.png)
+![list-layout](./2-images/list-layout.png)
 
 
 
@@ -122,7 +122,7 @@ In addition to the Table Layout and Listing Layout, there are a few other Layout
 
 
 
-![premium-addons](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 2/2-images/premium-addons.png)
+![premium-addons](./2-images/premium-addons.png)
 
 
 
@@ -156,7 +156,7 @@ This page is divided into three tabs:
 
   
 
-  ![contexts](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 2/2-images/contexts.png)
+  ![contexts](./2-images/contexts.png)
 
 
 

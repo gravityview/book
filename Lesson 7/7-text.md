@@ -4,7 +4,7 @@ Lucky number seven! At this point, you should have a pretty good idea of how the
 
 
 
-![view-settings-menu](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 7/7-images/view-settings-menu.png)
+![view-settings-menu](./7-images/view-settings-menu.png)
 
 
 
@@ -25,7 +25,7 @@ Although we've covered mentioned many of these settings already, let's go throug
 
 The majority of the settings are grouped under the (aptly named) *View Settings* tab.
 
-![view-settings-views-settings](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 7/7-images/view-settings-views-settings.png)
+![view-settings-views-settings](./7-images/view-settings-views-settings.png)
 
 #### 1. Number of entries per page
 
@@ -102,7 +102,7 @@ This tab only has two options, both of which pertain to the *Single Entry Contex
 
 
 
-![view-settings-single-entry](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 7/7-images/view-settings-single-entry.png)
+![view-settings-single-entry](./7-images/view-settings-single-entry.png)
 
 
 
@@ -116,13 +116,13 @@ If this option is left blank, the title will be the same as on the Multiple Entr
 
 Here, you can customize the link that returns to the Multiple Entries page. By default, the link text is *Go back.*
 
-![go-back](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 7/7-images/go-back.png)
+![go-back](./7-images/go-back.png)
 
 ## Filter & Sort
 
 The third tab allows you to customize how your Entries are filtered and sorted.
 
-![view-settings-filter-sort](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 7/7-images/view-settings-filter-sort.png)
+![view-settings-filter-sort](./7-images/view-settings-filter-sort.png)
 
 
 
@@ -130,7 +130,7 @@ The third tab allows you to customize how your Entries are filtered and sorted.
 
 If this option is enabled, users can click a small arrow to filter Entries by column:
 
-![column-sort](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 7/7-images/column-sort.png)
+![column-sort](./7-images/column-sort.png)
 
 
 

@@ -12,13 +12,13 @@ If you remember from Lesson 4, the *Search Bar* is a GravityView widget. You can
 
 To add a Widget, simply click *Add Widget*. 
 
- ![widgets](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/widgets.png)
+ ![widgets](./8-images/widgets.png)
 
 
 
 Then, click *Search Bar* to add it to your View. To edit the settings, click the blue gear icon:
 
-![search-bar-options-window](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/search-bar-options-window.png)
+![search-bar-options-window](./8-images/search-bar-options-window.png)
 
 **You'll then see a number of options:**
 
@@ -32,7 +32,7 @@ Then, click *Search Bar* to add it to your View. To edit the settings, click the
 
 
 
-![search-bar-options-window](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/search-bar-options-window.png)
+![search-bar-options-window](./8-images/search-bar-options-window.png)
 
 **Let's add a new Search Field to see how it works.**
 
@@ -43,13 +43,13 @@ Then, click *Search Bar* to add it to your View. To edit the settings, click the
 
 
 
-![new-search-field](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/new-search-field.png)
+![new-search-field](./8-images/new-search-field.png)
 
 ### Change the Label
 
 Want to change the label? No problem. Simply type it in under "Label". By default, the label will be the same as the Field itself. Don't want to have a label at all? Just add one blank space (press your space bar one time).
 
-![change-label-text](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/change-label-text.png)
+![change-label-text](./8-images/change-label-text.png)
 
 Let's change our label to say *What are other guests bringing?* That way, guests can search for what items other people are bringing to the party and act accordingly.
 
@@ -71,7 +71,7 @@ Depending on the type of Field, you can choose different input types. For exampl
 
   
 
-  ![links-search-type](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/links-search-type.png)
+  ![links-search-type](./8-images/links-search-type.png)
 
 ### "Search Mode"
 
@@ -79,7 +79,7 @@ When you have multiple Search Fields displayed, a new option will appear below t
 
 
 
-![search-mode-search-bar](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/search-mode-search-bar.png)
+![search-mode-search-bar](./8-images/search-mode-search-bar.png)
 
 
 
@@ -94,7 +94,7 @@ Finally, you can re-arrange the Search Fields by dragging and clicking the arrow
 
 
 
-![drag-search-fields](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/drag-search-fields.gif)
+![drag-search-fields](./8-images/drag-search-fields.gif)
 
 
 
@@ -102,13 +102,13 @@ Finally, you can re-arrange the Search Fields by dragging and clicking the arrow
 
 Let's save and preview our View. We now have a nifty search bar at the Top above our Entries:
 
-![search-live-on-site](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/search-live-on-site.png)
+![search-live-on-site](./8-images/search-live-on-site.png)
 
 
 
 If we perform a search, our page will reload with all relevant results (if any exist). A "clear" button will also appear next to the search bar.
 
-![search-clear-button](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/search-clear-button.png)
+![search-clear-button](./8-images/search-clear-button.png)
 
 
 
@@ -122,7 +122,7 @@ That about covers the search bar! Get searching!
 
 
 
-![appearance-widgets](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/appearance-widgets.png)
+![appearance-widgets](./8-images/appearance-widgets.png)
 
 
 
@@ -130,5 +130,5 @@ Then, add the widget to a sidebar or footer. The configuration process is essent
 
 
 
-![wordpress-widget-search-gv](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 8/8-images/wordpress-widget-search-gv.png)
+![wordpress-widget-search-gv](./8-images/wordpress-widget-search-gv.png)
 

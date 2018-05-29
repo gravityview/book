@@ -2,7 +2,7 @@
 
 
 
-![floaty](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/floaty.png)
+![floaty](./1-images/floaty.png)
 
 **Welcome to the first lesson of GravityView Academy!** In this first lesson, we’ll start with the basics – *Forms, Fields, and Entries.* While some of these topics may seem simple, they are critical to understand (trust us!)
 
@@ -14,7 +14,7 @@ Everything starts with the Form. Even if you’re a new Gravity Forms or Gravity
 
 
 
-![example-form](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/example-form.png)
+![example-form](./1-images/example-form.png)
 
 
 
@@ -36,7 +36,7 @@ Let’s imagine that you’re throwing a potluck party at your apartment on the 
 
 
 
-![new-form](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/new-form.png)
+![new-form](./1-images/new-form.png)
 
 
 
@@ -46,7 +46,7 @@ Now we’re on the *Form Edit* page. Here, we can customize our Form and pick 
 
 
 
-![types-of-fields](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/types-of-fields.png)
+![types-of-fields](./1-images/types-of-fields.png)
 
 
 
@@ -75,7 +75,7 @@ Now we simply need to drag a Field into the Form for each of the four items.
 
 
 
-![name](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/name.png)
+![name](./1-images/name.png)
 
 
 
@@ -83,7 +83,7 @@ Now we simply need to drag a Field into the Form for each of the four items.
 
 
 
-![email](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/email.png)
+![email](./1-images/email.png)
 
 
 
@@ -91,7 +91,7 @@ Now we simply need to drag a Field into the Form for each of the four items.
 
   
 
-![food-bringing](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/food-bringing.png)
+![food-bringing](./1-images/food-bringing.png)
 
 
 
@@ -99,7 +99,7 @@ Now we simply need to drag a Field into the Form for each of the four items.
 
 
 
-![fun-fact](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/fun-fact.png)
+![fun-fact](./1-images/fun-fact.png)
 
 
 
@@ -113,7 +113,7 @@ Now that we’ve created our form, we need to put in on a page. To do this, simp
 
 
 
-![add-form-to-page](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/add-form-to-page.png)
+![add-form-to-page](./1-images/add-form-to-page.png)
 
 
 
@@ -125,7 +125,7 @@ Let’s see what the form looks like. If we navigate to the page, we’ll see ou
 
 
 
-![submit-form](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/submit-form.png)
+![submit-form](./1-images/submit-form.png)
 
 ## What is an Entry?
 
@@ -135,7 +135,7 @@ To view your Entries, navigate to the *Forms > Entries* page and select your Fo
 
 
 
-![entry-01](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/entry-01.png)
+![entry-01](./1-images/entry-01.png)
 
 
 
@@ -143,7 +143,7 @@ If you hover over the Entry itself and click *View,* you can view the Entry deta
 
 
 
-![full-entry](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 1/1-images/full-entry.png)
+![full-entry](./1-images/full-entry.png)
 
 
 

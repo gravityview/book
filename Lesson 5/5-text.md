@@ -6,7 +6,7 @@ As we talked about the *Multiple Entries Context* in the last lesson. This lesso
 
 Let's go!
 
-![single-entry](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/single-entry.png)
+![single-entry](./5-images/single-entry.png)
 
 ## What is the Single Entry Context?
 
@@ -16,7 +16,7 @@ While the *Multiple Entries Context* is for displaying *a few details about many
 
 
 
-![single-entry-business](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/single-entry-business.png)
+![single-entry-business](./5-images/single-entry-business.png)
 
 
 
@@ -33,11 +33,11 @@ While the *Multiple Entries Context* is for displaying *a few details about many
 
 Now, let's add some Fields. To edit which Fields will display on the Single Entry Context, first go to the *Single Entry* tab.
 
-![choose-single-entry](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/choose-single-entry.png)
+![choose-single-entry](./5-images/choose-single-entry.png)
 
 Scroll down and you'll see a place for adding your Fields. To add a Field, simply click *Add Field.*
 
-![add-single-entry-fields](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/add-single-entry-fields.png)
+![add-single-entry-fields](./5-images/add-single-entry-fields.png)
 
 Just like the Multiple Entries Context, you can choose from all available Fields. Since we have much more room on this Single Entry page, we can add more Fields.
 
@@ -45,13 +45,13 @@ Just like the Multiple Entries Context, you can choose from all available Fields
 
 
 
-![fields-single-entry](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/fields-single-entry.png)
+![fields-single-entry](./5-images/fields-single-entry.png)
 
 
 
 It's really that simple! You can also fine-tune the settings by clicking on the gear icon next to each Field. If we preview our View, you'll see that we have much more room for displaying our Entry's Fields:
 
-![view-single-entry-page](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/view-single-entry-page.png)
+![view-single-entry-page](./5-images/view-single-entry-page.png)
 
 
 
@@ -61,7 +61,7 @@ Way at the bottom of the *View Configuration* page, you can customize some setti
 
 
 
-![view-settings-single-entry](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/view-settings-single-entry.png)
+![view-settings-single-entry](./5-images/view-settings-single-entry.png)
 
 
 
@@ -81,13 +81,13 @@ In the last lesson, we talked about linking to the Single Entry Context from the
 
 If you want to link an Entry on the Multiple Entries page to its Single Entry page. No problem? Simply click the gear icon next to the Field (make sure you're on the *Multiple Entries Context* tab first).
 
-![business-name-options](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/business-name-options.png)
+![business-name-options](./5-images/business-name-options.png)
 
 Then, click *Link to single Entry.* Once you enable this option, the Field will link to its Single Entry Context. 
 
 
 
-![link-to-single-entry](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/link-to-single-entry.png)
+![link-to-single-entry](./5-images/link-to-single-entry.png)
 
 
 
@@ -95,7 +95,7 @@ When you enable the link option, the Field will have a small link icon displayed
 
 
 
-![link-activated-backend](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/link-activated-backend.png)
+![link-activated-backend](./5-images/link-activated-backend.png)
 
 
 
@@ -103,7 +103,7 @@ As an example: if your Field is *Business Name* and you enable *Link to Single E
 
 
 
-![link-activated](/Users/gravityview/Dropbox/GravityView/Academy/Book/book-academy/Lesson 5/5-images/link-activated.png)
+![link-activated](./5-images/link-activated.png)
 
 Although it is typically used on the *Name* field, you can also activate the *Link to Single Entry* option on any text Field.
 
