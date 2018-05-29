@@ -4,7 +4,7 @@ Welcome to Lesson 4 of GravityView Academy! In the previous lesson, we discussed
 
 Grab your notebook and let's get started!
 
-![contexts](./4-images/contexts.png)
+![contexts](./images/contexts.png)
 
 ## Refresher: *What is a Context?*
 
@@ -16,7 +16,7 @@ Forget what a context is? Not to worry! A *Context* is simply a part of the View
 
 If you're still confused about Contexts, you should go back and review Lesson 3. Don't feel bad about it - the concept of a View and its Context can be tough to grasp.
 
-![multiple-entries](./3-images/multiple-entries.png)
+![multiple-entries](./images/multiple-entries.png)
 
 ## The "Default" Context
 
@@ -40,7 +40,7 @@ If you recall, we talked about View Layouts in Lesson 2. By default, there are t
 
   
 
-![view-layout](./2-images/view-layout.png)
+![view-layout](./images/view-layout.png)
 
 There are also other Premium Layouts, including *Maps, DataTables,* and *DIY Layout.* We'll cover each of them in a separate lesson.
 
@@ -50,7 +50,7 @@ For example, the *Table Layout* displays your Entries *in a table.* To put this 
 
 
 
-![table-layout](./4-images/table-layout.png)
+![table-layout](./images/table-layout.png)
 
 
 
@@ -66,15 +66,15 @@ At the top and at the bottom of the Multiple Entries settings, you can add widge
 
 
 
-![widgets-above](./4-images/widgets-above.png)
+![widgets-above](./images/widgets-above.png)
 
-![widgets-below](./4-images/widgets-below.png)
+![widgets-below](./images/widgets-below.png)
 
 To add a widget, simply click *Add Widget*. Pretty easy! In the standard version of GravityView (without extra add-on View Layouts), there are four types of widgets you can add:
 
 
 
-![widget-options](./4-images/widget-options.png)
+![widget-options](./images/widget-options.png)
 
 
 
@@ -84,7 +84,7 @@ Let's briefly talk about each option!
 
 This allows you to display the number of Entries *displayed* as compared to the *total* number of Entries. This is useful if you have a large number of Entries spread across multiple pages.
 
-![pagination-info](./4-images/pagination-info.png)
+![pagination-info](./images/pagination-info.png)
 
 
 
@@ -92,19 +92,19 @@ This allows you to display the number of Entries *displayed* as compared to the 
 
 This widget is pretty straightforward - it lets you display the page numbers. Note that if there are a large number of pages, not *all* of the page numbers will be displayed automatically; instead, they will be summarized. For example:
 
-![page-numbers](./4-images/page-numbers.png)
+![page-numbers](./images/page-numbers.png)
 
 If you want to display each and every page number, you'll need to click the little gear icon next to the *Page Links* item. 
 
 
 
-![page-options-links](./4-images/page-options-links.png)
+![page-options-links](./images/page-options-links.png)
 
 
 
 Then, check the box next to *Show each page number*:
 
-![show-each-page-number](./4-images/show-each-page-number.png)
+![show-each-page-number](./images/show-each-page-number.png)
 
 Now, every single page number will be displayed (even if you have thousands of them!)
 
@@ -114,7 +114,7 @@ The Custom Content is just a place to put your own text, HTML code, or WordPress
 
 
 
-![custom-content](./4-images/custom-content.png)
+![custom-content](./images/custom-content.png)
 
 
 
@@ -122,7 +122,7 @@ Then, type in your text, HTML, or shortcode. You can choose to automatically add
 
 
 
-![edit-custom-content](./4-images/edit-custom-content.png)
+![edit-custom-content](./images/edit-custom-content.png)
 
 #### Search Bar
 
@@ -132,7 +132,7 @@ To do that, first click on the gear icon next to the Search Bar item.
 
 
 
-![search-bar](./4-images/search-bar.png)
+![search-bar](./images/search-bar.png)
 
 
 
@@ -140,7 +140,7 @@ You'll then be presented with quite a few options. You can choose the layout, wh
 
 
 
-![search-options](./4-images/search-options.png)
+![search-options](./images/search-options.png)
 
 
 
@@ -152,7 +152,7 @@ Remember that you can add these widgets to be above or below your Entries (or ev
 
 Now, let's talk about the main part of the Multiple Entries Context - adding the Entry Fields themselves! You can add Fields on the middle of the page. Every Field you add to this section will be displayed for each Entry on your View.
 
-![entry-fields](./4-images/entry-fields.png)
+![entry-fields](./images/entry-fields.png)
 
 For example, if you add the "Business Name" Field here, it will be displayed for each Entry. **If you don't add a Field, it won't be displayed in your View.** This is important to understand! You need to manually add every Field that you want to display.
 
@@ -162,7 +162,7 @@ To add a Field, simply click *Add Field*. You'll then be presented with a modal 
 
 
 
-![add-fields](./4-images/add-fields.png)
+![add-fields](./images/add-fields.png)
 
 
 
@@ -174,7 +174,7 @@ Scroll down to see all of the available Field options. All the way at the bottom
 
 You can customize each Field by clicking the blue gear icon next to it. Each type of Field has different options - for example, the Website Field has settings that pertain specifically to displaying a URL.
 
-![options](./4-images/options.png)
+![options](./images/options.png)
 
 ### Linking to the Single Entry Context
 
@@ -182,7 +182,7 @@ Perhaps the single most-used Field option is the *Link to Single Entry* option. 
 
 
 
-![link-to-single-entry](./4-images/link-to-single-entry.png)
+![link-to-single-entry](./images/link-to-single-entry.png)
 
 
 
@@ -190,13 +190,13 @@ When you enable this option, the Field will have a small link icon displayed:
 
 
 
-![link-activated-backend](./4-images/link-activated-backend.png)
+![link-activated-backend](./images/link-activated-backend.png)
 
 
 
 As an example: if your Field is *Business Name* and you enable *Link to Single Entry*, clicking on the *Business Name* Field will take to you that business's Single Entry page:
 
-![link-activated](./4-images/link-activated.png)
+![link-activated](./images/link-activated.png)
 
 
 
@@ -209,7 +209,7 @@ Finally, let's talk briefly about configuring the View Settings. While some of t
 
 
 
-![view-settings-menu](./4-images/view-settings-menu.png)
+![view-settings-menu](./images/view-settings-menu.png)
 
 
 
@@ -236,7 +236,7 @@ Under *Filter and Sort*, you can choose how your Entries will be displayed in th
 
 
 
-![filter-sort](./4-images/filter-sort.png)
+![filter-sort](./images/filter-sort.png)
 
 
 

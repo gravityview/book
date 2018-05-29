@@ -14,7 +14,7 @@ We briefly talked about the concepts of *Front End* and *Back End* in Lesson 2, 
 
   
 
-![front-end](./6-images/front-end.png)
+![front-end](./images/front-end.png)
 
 
 
@@ -22,7 +22,7 @@ We briefly talked about the concepts of *Front End* and *Back End* in Lesson 2, 
 
   
 
-![back-end](./6-images/back-end.png)
+![back-end](./images/back-end.png)
 
 
 
@@ -34,13 +34,13 @@ In Gravity Forms, the only way to edit the fields of an entry is on the Back End
 
 The View Configuration screen for the *Edit Entry* context is pretty straightforward.
 
-![edit-entry-fields](./6-images/edit-entry-fields.png)
+![edit-entry-fields](./images/edit-entry-fields.png)
 
 To add a Field, simply click *Add Field.* There are no extra or special options; the only fields that you can add are the fields themselves. 
 
 **Remember:** any fields that are added will be editable on the Edit Entry page. If for some reason you don't want a particular field to be editable, don't add it to the View. 
 
-![edit-entry-viewable-fields](./6-images/edit-entry-viewable-fields.png)
+![edit-entry-viewable-fields](./images/edit-entry-viewable-fields.png)
 
 For example, you may want to let businesses change their Web Address or (physical) Address, but not their Business Name. In this instance, you'd simply add the *Web Address* and *Address* Fields and **not** add the Name Field. 
 
@@ -73,7 +73,7 @@ To enable these options, simply scroll to the bottom of the View Configuration p
 
 
 
-![view-settings-edit-entry](./6-images/view-settings-edit-entry.png)
+![view-settings-edit-entry](./images/view-settings-edit-entry.png)
 
 
 
@@ -85,13 +85,13 @@ We can put these Fields on either the *Multiple Entries* page or the *Single Ent
 
 
 
-![edit-entry-add-field](./6-images/edit-entry-add-field.png)
+![edit-entry-add-field](./images/edit-entry-add-field.png)
 
 
 
 To add the fields, simply click *Add Field* and scroll down to the bottom of the modal window. Then, click *Edit Entry* and/or *Delete Entry.*
 
-![single-entry-view-with-edit-entry-delete-entry](./6-images/single-entry-view-with-edit-entry-delete-entry.png)
+![single-entry-view-with-edit-entry-delete-entry](./images/single-entry-view-with-edit-entry-delete-entry.png)
 
 These Fields will now be displayed on the Single Entry page. You can also customize the Fields by clicking the blue gear icon.
 
@@ -105,7 +105,7 @@ Click on *Edit Entry* and to edit your Entries. Our party guests will no doubt f
 
 Note that a *Delete Entry* link is also displayed below the Fields themselves, so including it directly on the Edit Entry page itself can be a little redundant:
 
-![edit-fields-in-edit-entry](./6-images/edit-fields-in-edit-entry.png)
+![edit-fields-in-edit-entry](./images/edit-fields-in-edit-entry.png)
 
 It's also important to realize that these Fields will only be visible to Administrators *unless* you enable the *Allow User Edit* and *Allow User Delete* options that we mentioned in the last section. **Simply adding the fields is not sufficient; administrators will be able to see them, but logged-in users won't.**
 
@@ -119,7 +119,7 @@ It's also important to realize that these Fields will only be visible to Adminis
 
 
 
-![inline-edit](./6-images/inline-edit.png)
+![inline-edit](./images/inline-edit.png)
 
 
 
@@ -138,7 +138,7 @@ It's also important to realize that these Fields will only be visible to Adminis
 
 This Premium plugin allows you to essentially bypass the Edit Entry page entirely. Rather than edit each Entry individually, one at a time, you can edit every Field with a single click. As you can imagine, this can save you a ton of time!
 
-![Update-Column](./6-images/Update-Column.gif)
+![Update-Column](./images/Update-Column.gif)
 
 
 

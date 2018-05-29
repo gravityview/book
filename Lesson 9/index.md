@@ -14,7 +14,7 @@ You can embed a View on any WordPress page or post via a shortcode. Here's how:
 
 On the right side, under *Publish*, you'll see an Embed Shortcode. Copy this shortcode.
 
-![embed-shortcode](./9-images/embed-shortcode.png)
+![embed-shortcode](./images/embed-shortcode.png)
 
 
 
@@ -22,13 +22,13 @@ On the right side, under *Publish*, you'll see an Embed Shortcode. Copy this sho
 
 Paste the code into your Page or Post editor.
 
-![paste-shortcode](./9-images/paste-shortcode.png)
+![paste-shortcode](./images/paste-shortcode.png)
 
 Voilà - that's it! Your View is now embedded. You can also just click *Add View* directly in the Post/Page editor:
 
 
 
-![add-view](./9-images/add-view.png)
+![add-view](./images/add-view.png)
 
 
 
@@ -51,13 +51,13 @@ The [gravityview] shortcode can accept a number of parameters. The most commonly
 
 Want to embed a View in a sidebar or footer widget? Unfortunately, the [gravityview] shortcode won't work in a standard Custom HTML widget by default. Instead, you'll need to install an additional plugin called [Shortcode Widget](https://wordpress.org/plugins/shortcode-widget/).
 
-![shortcode-widget](./9-images/shortcode-widget.png)
+![shortcode-widget](./images/shortcode-widget.png)
 
 When you install this plugin, a *Shortcode Widget* option will be added to your *WordPress > Widgets* page. 
 
 
 
-![shortcode-widget-wp](./9-images/shortcode-widget-wp.png)
+![shortcode-widget-wp](./images/shortcode-widget-wp.png)
 
 
 
@@ -65,7 +65,7 @@ Simply drag this widget to your WordPress sidebar or footer and paste the shortc
 
 
 
-![sidebar-example-widget-shortcode](./9-images/sidebar-example-widget-shortcode.png)
+![sidebar-example-widget-shortcode](./images/sidebar-example-widget-shortcode.png)
 
 
 
@@ -91,7 +91,7 @@ Notice that this Entry has a specific number (11). Each Entry has its own ID num
 
 
 
-![single-entry-url](./9-images/single-entry-url.png)
+![single-entry-url](./images/single-entry-url.png)
 
 ### 3. Go to your WordPress Page or Post.
 
@@ -99,7 +99,7 @@ First, make sure you're on the *Visual* tab:
 
 
 
-![visual-tab](./9-images/visual-tab.png)
+![visual-tab](./images/visual-tab.png)
 
 
 
@@ -107,7 +107,7 @@ Then, place your cursor where you want to put the Entry. Paste the URL, wait a m
 
 
 
-![paste-embed-entry](./9-images/paste-embed-entry.png)
+![paste-embed-entry](./images/paste-embed-entry.png)
 
 
 
@@ -115,10 +115,10 @@ To edit the options of the embedded Entry, however over the placeholder image an
 
 
 
-![edit-options](./9-images/edit-options.png)
+![edit-options](./images/edit-options.png)
 
 Finally, save (or update) your Post or Page. Click *View Post* and you'll see your Entry! It's that easy.
 
  
 
-![embedded-entry](./9-images/embedded-entry.png)
+![embedded-entry](./images/embedded-entry.png)

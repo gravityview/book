@@ -14,7 +14,7 @@ Before you do anything else, make sure that you've enabled "Show only approved e
 
 
 
-![show-only-approved-entries](./10-images/show-only-approved-entries.png)
+![show-only-approved-entries](./images/show-only-approved-entries.png)
 
 
 
@@ -24,7 +24,7 @@ After you enable the Show all entries option, a new option will appear below. Wh
 
 
 
-![show-all-entries](./10-images/show-all-entries.png)
+![show-all-entries](./images/show-all-entries.png)
 
 
 
@@ -34,7 +34,7 @@ Then, go to the *Gravity Forms > Entries* page for the form attached to your Ent
 
 
 
-![entries](./10-images/entries.png)
+![entries](./images/entries.png)
 
 
 
@@ -42,7 +42,7 @@ On the left-hand side, you'll see a column with a spaceman at the top. This is t
 
 
 
-![approve-reject](./10-images/approve-reject.png)
+![approve-reject](./images/approve-reject.png)
 
 
 
@@ -54,7 +54,7 @@ On the left-hand side, you'll see a column with a spaceman at the top. This is t
 
 
 
-![not-yet-rated](./10-images/status.png)
+![not-yet-rated](./images/status.png)
 
 
 
@@ -72,13 +72,13 @@ In that case, you'll want to set up Entry Approval/Rejection on the front end, d
 
 Stay on the *Multiple Entries Context* tab and scroll down to the *Entries Fields* section. Click *Add Field.*
 
-![add-field](./10-images/add-field.png)
+![add-field](./images/add-field.png)
 
 Then, scroll down in the modal window about halfway. We want the *Approve Entries* Field. Click it to add it to your View.
 
 
 
-![approve-approval](./10-images/approve-entries-field.png)
+![approve-approval](./images/approve-entries-field.png)
 
 
 
@@ -86,7 +86,7 @@ You can also edit the Field's settings by clicking on the blue gear icon.
 
 
 
-![blue-gear](./10-images/blue-gear.png)
+![blue-gear](./images/blue-gear.png)
 
 
 
@@ -96,13 +96,13 @@ The *Approve / Reject* column is now visible.
 
 
 
-![front-end-view](./10-images/front-end-view.png)
+![front-end-view](./images/front-end-view.png)
 
 
 
 To approve or reject an Entry, simply click on it:
 
-![approve-in-view](./10-images/approve-in-view.png)
+![approve-in-view](./images/approve-in-view.png)
 
 
 
