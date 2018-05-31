@@ -65,7 +65,7 @@ We talked about this option in the last lesson, *The Edit Entry Context.* If ena
 
 #### 7. Allow User Delete
 
-We also talked about this option in the last lesson. If enabled, logged-in users will be able to delete the Entries that they have created. If the user isn't logged-in, they won't see the *Delete Entry* links or be able to access the *Edit Entry* page. As with the *Allow User Edit* option, these links and pages will always be visible to administrators.
+We also talked about this option in the last lesson. If enabled, logged-in users will be able to delete the Entries that they have created. If the user isn't logged-in, they won't see the *Delete Entry* links. As with the *Allow User Edit* option, these links and pages will always be visible to administrators.
 
 #### 8. Prevent Direct Access
 
@@ -73,7 +73,7 @@ If enabled, the View will only be visible if it is embedded via a shortcode. The
 
 #### 9. Allow REST Access
 
-// @zack: Not sure how exactly to communicate this
+This option is only relevant for developers. Developers: [read this.](https://github.com/gravityview/GravityView/wiki/REST-API)
 
 #### 10. Move Featured Entries to Top
 
@@ -136,7 +136,7 @@ If this option is enabled, users can click a small arrow to filter Entries by co
 
 #### 2. Sort by field
 
-This option lets you choose which Field will be used to sort Entries on the Multiple Entries page. By default, Entries will be sorted by the first Field listed.
+This option lets you choose which Field will be used to sort Entries on the Multiple Entries page. By default, Entries will be sorted by the date they were created.
 
 #### 3. Sort direction
 
