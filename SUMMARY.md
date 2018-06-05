@@ -5,7 +5,8 @@
 ## Introduction
 
 * [Introduction](introduction/introduction.md)
-* [Lesson 1: Fields, Forms, and Entries](introduction/lesson-1-fields-forms-and-entries.md)
+* [Lesson 1: Fields, Forms, and Entries](introduction/lesson-1-fields-forms-and-entries/README.md)
+  * [Notes](introduction/lesson-1-fields-forms-and-entries/notes.md)
 * [Lesson 2: Views](introduction/lesson-2-views.md)
 * [Lesson 3: View Contexts](introduction/lesson-3-view-contexts.md)
 * [Lesson 4: The Multiple Entries Context](introduction/lesson-4-the-multiple-entries-context.md)
