@@ -107,5 +107,3 @@ In addition to the _visible_ information about an Entry, invisible "meta data" i
 
 **And that’s it!** Hopefully you now understand how Forms, Fields and Entries work! In the next lesson, we’ll learn how these concepts connect to Views, which allow you to display your Entries on the front end of your website.
 
-_Class dismissed!_
-

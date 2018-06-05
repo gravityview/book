@@ -187,5 +187,5 @@ Under _Filter and Sort_, you can choose how your Entries will be displayed in th
 * **Filter by End Date**
   * This option is the opposite of the above _Filter by Start Date_. It lets you display Entries submitted **before** a certain date. This is useful if you want to limit a View to a specific period of time, like "last month".
 
-**Whew, that was a long lesson!** Hopefully you now understand how the Multiple Entries Context works. In the next lesson, we'll talk about the second View Context - the _Single Entry Context._
+Hopefully you now understand how the Multiple Entries Context works. In the next lesson, we'll talk about the second View Context - the _Single Entry Context._
 

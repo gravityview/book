@@ -82,5 +82,3 @@ Continuing with our examples:
 
 And that covers all three View Contexts! In the next lesson, we'll delve into the Multiple Entries Context.
 
-_Class dismissed!_
-
