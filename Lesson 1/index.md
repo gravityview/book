@@ -12,7 +12,7 @@ Everything starts with the Form. Even if you’re a new Gravity Forms or Gravity
 
 ## The Structure of a Form
 
-Now, in order to grasp how Gravity Forms and GravityView work together, it helps to break down a form and understand its structure.
+In order to grasp how Gravity Forms and GravityView work together, it helps to break down a form and understand its structure.
 
 Put in the simplest terms possible, _a form allows users to submit information to the website._ A typical form has three basic components:
 
