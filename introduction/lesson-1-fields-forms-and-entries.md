@@ -57,19 +57,19 @@ To add a Field to the Form, we click on the name of of a Field, and it will be a
 
 * Collect the guest name with a _Name Field_, which is on the _Advanced Fields_ Field group.
 
-![Name Field](../.gitbook/assets/name.png)
+![](../.gitbook/assets/name.png)
 
 * Collect their email with the _Email Field_, which is also on the _Advanced Fields_ Field group.
 
-![Email Field](../.gitbook/assets/email.png)
+![](../.gitbook/assets/email.png)
 
 * For _What food or drinks are you bringing?_ we can use a _Paragraph Text Field,_ which is under _Standard Fields._
 
-![Paragraph Text Field](../.gitbook/assets/food-bringing.png)
+![](../.gitbook/assets/food-bringing.png)
 
 * Finally, for _What is a fun fact about yourself?_ we can use a _Single Line Text Field._
 
-![fun-fact](../.gitbook/assets/fun-fact.png)
+![](../.gitbook/assets/fun-fact.png)
 
 Double-check that everything looks right, then click _Update!_
 
@@ -77,27 +77,33 @@ Double-check that everything looks right, then click _Update!_
 
 Now that we’ve created our form, we need to put in on a page. To do this, simply create a new WordPress page. Then, on the Editor page, click _Add Form._
 
-![add-form-to-page](../.gitbook/assets/add-form-to-page.png)
+![Click the &quot;Add Form&quot; button to insert a form into your page](../.gitbook/assets/add-form-to-page.png)
 
-Select your form, customize the options, and click _Add Form._ You’ll then see a shortcode for your form. Finally, publish the page.
+Select your form, customize the options, and click _Add Form._ When you do, you will see that Gravity Forms has added a "shortcode" for your form that looks like `[gravityforms id="1"]`. This shortcode will be replaced with the form you created when viewing the live page.
+
+Finally, publish the page by clicking the "Publish" button.
 
 ### Form Submission and Viewing Entries
 
-Let’s see what the form looks like. If we navigate to the page, we’ll see our form. It looks good! Let’s fill out the fields and press submit.
+Let’s see what the form looks like. If we navigate to the page, we’ll see our form. It looks good! 
 
-![submit-form](../.gitbook/assets/submit-form.png)
+Let’s fill out the fields and press submit.
+
+![Our filled-out form](../.gitbook/assets/submit-form.png)
 
 ## What is an Entry?
 
 Now, let's talk a little bit about Entries. As we mentioned before, an Entry is simply the data from one form submission, packaged together into one "unit". Entries are attached to a specific Form. It's important to understand the concept of an Entry, as they are fundamental to the way Gravity Forms and GravityView work.
 
-To view your Entries, navigate to the _Forms &gt; Entries_ page and select your Form from the menu at the top of the page. You should see your submitted Entry listed.
+To view your Entries, navigate to the _Forms &gt; Entries_ page and select your Form from the menu at the top of the page. You will see your submitted Entry listed.
 
-![entry-01](../.gitbook/assets/entry-01.png)
+![Gravity Forms displays a table of submitted Entries](../.gitbook/assets/entry-01.png)
 
 If you hover over the Entry itself and click _View,_ you can view the Entry details on a full page. This is useful if your Form has more than a few Fields \(or if each Field has a lot of information\).
 
-![full-entry](../.gitbook/assets/full-entry.png)
+![The full Entry details, as shown in Gravity Forms](../.gitbook/assets/full-entry.png)
+
+In addition to the _visible_ information about an Entry, invisible "meta data" is collected for each Entry, including information like what page the user was on when they submitted the form, the date the entry was created, and more.
 
 **And that’s it!** Hopefully you now understand how Forms, Fields and Entries work! In the next lesson, we’ll learn how these concepts connect to Views, which allow you to display your Entries on the front end of your website.
 
