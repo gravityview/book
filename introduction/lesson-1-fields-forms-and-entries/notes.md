@@ -14,4 +14,5 @@ description: GitBook removed comments; I'll just post notes per lesson here.
 * [ ] Add a paragraph introducing GF
 * [ ] Update the RSVP form
 * [ ] Update field groups section with screenshot showing context
+* [ ] From now on, take screenshots in high-resoltion quality. The screenshots I see are all standard-res.
 
