@@ -1,6 +1,6 @@
 # Lesson 1: Fields, Forms, and Entries
 
-**Welcome to the first lesson of GravityView Academy!** In this first lesson, we’ll start with the basic building blocks of GravityView – _Forms, Fields, and Entries_
+**Welcome to the first lesson of GravityView Academy!** In this first lesson, we’ll start with the basic building blocks of GravityView – _Forms, Fields, and Entries._
 
 Let’s get started!
 
