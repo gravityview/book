@@ -111,11 +111,9 @@ This page is divided into three tabs:
 * Single Entry
 * Edit Entry
 
-![contexts](../.gitbook/assets/contexts.png)
+![One tab for each Context](../.gitbook/assets/contexts.png)
 
 We call these _Contexts_. You can think of them as different components, or sides, of a View. We'll cover each of them in more detail in future lessons.
 
-Whew, that's enough for today! In the next few lessons, we'll explore the _Multiple Entries,_ _Single Entry_ and _Edit Entry_ contexts in more detail.
-
-_Class dismissed!_
+In the next few lessons, we'll explore the _Multiple Entries,_ _Single Entry_ and _Edit Entry_ contexts in more detail.
 
