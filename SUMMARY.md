@@ -1,30 +1,32 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Concepts
 
-* [Introduction](README.md)
-* [Getting Started](chapter1.md)
-* [The View Editor](the_view_editor.md)
-  * [View Settings](admin/view_settings.md)
-  * [The Search Bar](admin/widgets/search_bar.md)
-  * [Using Custom Content and HTML](admin/fields/custom_content.md)
-* [Entry Filters & Approval](entry_filters_&_approval.md)
-  * [Entry Approval](entry_approval.md)
-* [Editing Entries](edit-entry/editing_entries.md)
-  * [Edit Entry](edit-entry/configure_edit_entry.md)
-  * [Allowing users to edit their own entry](edit-entry/users_edit_own_entry.md)
-* [Shortcodes](shortcodes/shortcodes.md)
-  * [\[gvfield\]](shortcodes/[gvfield].md)
-  * [\[gvlogic\]](shortcodes/gvlogic.md)
+* [Introduction](concepts/introduction.md)
+* [Getting Started](concepts/getting-started.md)
+* [The View Editor](concepts/the-view-editor/README.md)
+  * [View Settings](concepts/the-view-editor/view-settings.md)
+  * [The Search Bar](concepts/the-view-editor/the-search-bar.md)
+  * [Using Custom Content and HTML](concepts/the-view-editor/using-custom-content-and-html.md)
+* [Entry Filters & Approval](concepts/entry-filters-and-approval/README.md)
+  * [Entry Approval](concepts/entry-filters-and-approval/entry-approval.md)
+* [Editing Entries](concepts/editing-entries/README.md)
+  * [Edit Entry](concepts/editing-entries/edit-entry.md)
+  * [Allowing users to edit their own entry](concepts/editing-entries/allowing-users-to-edit-their-own-entry.md)
+* [Shortcodes](concepts/shortcodes/README.md)
+  * [\[gvfield\]](concepts/shortcodes/gvfield.md)
+  * [\[gvlogic\]](concepts/shortcodes/gvlogic.md)
 
 ## Extensions & Premium Views
 
-* [DIY Layout](extensions/diy-layout.md)
+* [DIY Layout](extensions-and-premium-views/diy-layout.md)
 
 ## For Developers
 
-* [Version 2.0](developers/version-20.md)
-* [GV Entry](developers/gventry.md)
-* [Actions](developers/README.md)
-* [Filters](filters/README.md)
+* [Version 2.0](for-developers/version-2.0.md)
+* [GV Entry](for-developers/gv-entry.md)
+* [Actions](for-developers/actions.md)
+* [Filters](for-developers/filters.md)
 
