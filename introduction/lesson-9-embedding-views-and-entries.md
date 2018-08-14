@@ -79,13 +79,9 @@ First, make sure you're on the _Visual_ tab:
 
 Then, place your cursor where you want to put the Entry. Paste the URL, wait a moment, and you should see an image automatically appear:
 
-![paste-embed-entry](../.gitbook/assets/paste-embed-entry.png)
-
-To edit the options of the embedded Entry, however over the placeholder image and click the pencil icon:
-
-![edit-options](../.gitbook/assets/edit-options.png)
+![What an embedded entry looks like in a Post or Page.](../.gitbook/assets/paste-embed-entry.png)
 
 Finally, save \(or update\) your Post or Page. Click _View Post_ and you'll see your Entry! It's that easy.
 
-![embedded-entry](../.gitbook/assets/embedded-entry.png)
+![An entry embedded in a page.](../.gitbook/assets/embedded-entry.png)
 
