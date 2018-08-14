@@ -1,24 +1,6 @@
 # Lesson 6: The Edit Entry Context
 
-In Lesson 4, we talked about the _Multiple Entries Context._ In Lesson 5, we talked about the _Single Entry Context._ Now, in Lesson 6, we'll talk about the third and final context: _Edit Entry._
-
-The _Edit Entry Context_ allows users \(or administrators\) to edit their Entries on the front end of the website, without having to manually log in to the back end.
-
-Let's jump in!
-
-## Refresher: Front End vs. Back End
-
-We briefly talked about the concepts of _Front End_ and _Back End_ in Lesson 2, but let's refresh your memory:
-
-* **The Front End is where users interact with your website.** On a WordPress website, the Front End is where Pages and Posts are displayed.
-
-![front-end](../.gitbook/assets/front-end%20%281%29.png)
-
-* **The Back End, alternatively, is where the website administrator\(s\) manages the site.** On a WordPress website, the Back End is also referred to as the "WordPress Admin page". By default, the URL for the Back End is _Example.com/wp-admin_.
-
-![back-end](../.gitbook/assets/back-end%20%281%29.png)
-
-Why is this important? Well, because the _Edit Entry_ context is simply the part of the View that allows you to edit Entries _**on the Front End**_**.**
+The _Edit Entry Context_ allows users \(or administrators\) to edit their Entries on the front end of the website without having to log in to the back end.
 
 In Gravity Forms, the only way to edit the fields of an entry is on the Back End of the website. However, with GravityView's _Edit Entry_ context, we can create a separate page that allows admins and/or users to edit entries.
 
@@ -28,9 +10,7 @@ The View Configuration screen for the _Edit Entry_ context is pretty straightfor
 
 ![edit-entry-fields](../.gitbook/assets/edit-entry-fields.png)
 
-To add a Field, simply click _Add Field._ There are no extra or special options; the only fields that you can add are the fields themselves.
-
-**Remember:** any fields that are added will be editable on the Edit Entry page. If for some reason you don't want a particular field to be editable, don't add it to the View.
+To add a Field, simply click _Add Field._ Any fields that are added will be editable on the Edit Entry page. If for some reason you don't want a particular field to be editable, don't add it to the View.
 
 ![edit-entry-viewable-fields](../.gitbook/assets/edit-entry-viewable-fields.png)
 
@@ -65,7 +45,7 @@ To enable these options, simply scroll to the bottom of the View Configuration p
 
 Now that we've allowed users to edit and delete their Entries, we need to add these fields to the View. If we don't manually add them to our View, users won't actually be able to access the Edit Entry page.
 
-We can put these Fields on either the _Multiple Entries_ page or the _Single Entry_ page \(or both\). Traditionally-speaking, the _Single Entry_ page is a better choice - it has more room for extra fields. But it's ultimately up to you!
+We can put these Fields on either the _Multiple Entries_ page or the _Single Entry_ page \(or both\). Often, the _Single Entry_ page is a better choice - it has more room for extra fields. But it's up to you!
 
 ![edit-entry-add-field](../.gitbook/assets/edit-entry-add-field.png)
 
@@ -75,7 +55,7 @@ To add the fields, simply click _Add Field_ and scroll down to the bottom of the
 
 These Fields will now be displayed on the Single Entry page. You can also customize the Fields by clicking the blue gear icon.
 
-> **Tip:** We suggest changing the _Edit Entry_ link text to something like, "Edit Your Information" or "Edit User Details." It's simply more user-friendly.
+> **Tip:** We suggest changing the _Edit Entry_ link text to something like, "Edit Your Information" or "Edit User Details." It's more user-friendly.
 
 If we preview our View, you'll see that we now have two new links at the bottom:
 
@@ -97,9 +77,9 @@ It's also important to realize that these Fields will only be visible to Adminis
 * Any WordPress User that has permission to edit Entries within Gravity Forms can also edit all Entries.
   * If you want to limit this capability, use the [Members plugin](http://wordpress.org/plugins/members/) to limit each user's "gravityforms\_edit\_entries" capability.
 
-![inline-edit](../.gitbook/assets/inline-edit.png)
+## Other Ways to Edit Entries with our _Inline Edit_ Plugin
 
-## A Final Note on the _Inline Edit_ Plugin
+Our Inline Edit premium plugin allows you to essentially bypass the Edit Entry page entirely. Rather than edit each Entry individually, one at a time, you can edit every Field with a single click. As you can imagine, this can save you a ton of time!
 
 **Normally, there are only two ways to edit Entries within Gravity Forms and GravityView:**
 
@@ -111,10 +91,6 @@ It's also important to realize that these Fields will only be visible to Adminis
 1. Directly on the Multiple Entries page.
 2. Directly on Single Entry page.
 3. Directly on the back end _Forms &gt; Entries_ page. 
-
-This Premium plugin allows you to essentially bypass the Edit Entry page entirely. Rather than edit each Entry individually, one at a time, you can edit every Field with a single click. As you can imagine, this can save you a ton of time!
-
-![Update-Column](../.gitbook/assets/update-column.gif)
 
 [Check out this page to learn more about the _Inline Edit_ Premium plugin.](https://gravityview.co/extensions/gravityview-inline-edit/) We'll also be covering _Inline Edit_ in a later lesson of GravityView Academy.
 
